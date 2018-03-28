@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjetV2</string>
+    <string name="takePhotoButton">Capture</string>
+    <string name="historyButton">History</string>
+    <string name="helpButton">Help</string>
+    <string name="settingsButton">Settings</string>
+    <string name="aboutButton">About</string>
+    <string name="versionText">Beta Version</string>
+    <string name="image_content_des">Original Image</string>
+    <string name="adjustButton">Adjust Image</string>
+    <string name="analysisButton">Start Analysis</string>
+    <string name="classifyButton">Classify Image</string>
+    <string name="extractFeaturesButton">Extract Features</string>
+</resources>
